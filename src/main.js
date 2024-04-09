@@ -6,7 +6,7 @@ import router from './router'
 
 import Userfront from '@userfront/toolkit/vue'
 
-Userfront.init("123abc4d")
+Userfront.init("6bgxxj9n")
 
 // try {
 //     Userfront.init('123abc4d');
