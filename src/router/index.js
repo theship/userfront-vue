@@ -4,7 +4,7 @@ import SignupView from '../views/SignupView.vue'
 import LoginView from '../views/LoginView.vue'
 import ResetView from '../views/ResetView.vue'
 import DashboardView from '../views/DashboardView.vue'
-import Userfront from '@userfront/toolkit/vue'
+import Userfront from '@userfront/toolkit/web-components'
 
 const router = createRouter({
   history: createWebHistory(import.meta.env.BASE_URL),

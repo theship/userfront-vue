@@ -14,7 +14,7 @@
 </template>
 
 <script>
-  import Userfront from "@userfront/toolkit/vue";
+  import Userfront from "@userfront/toolkit/web-components";
 
   export default {
     computed: {
